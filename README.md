@@ -9,9 +9,9 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 ### 🔧 Tech Stack
 
 - **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-, ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+,![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 - **Tools & Platforms**: ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white), ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) (Redshift, S3), ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white), Jenkins, Git, ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-- **Machine Learning**: Regression, Classification, Time Series (ARIMA, Fbprophet), Ensemble Models
+- **Machine Learning**: Classification, Regression, Time Series (ARIMA, Fbprophet), Ensemble Models
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 
 - **House Price Prediction**  
   *Applied Lasso and Ridge Regression on multicollinear data to predict house prices.*  
-  *Tech Stack*: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), sklearn, pandas  
+  *Tech Stack*: Python, sklearn, pandas  
   [GitHub Repository](https://github.com/kartikpradyumna92/Kaggle_House_Price_Predictions))
 
 - **Predicting Closed Deals in Automobile Sales**  
