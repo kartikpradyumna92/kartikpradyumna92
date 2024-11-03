@@ -19,19 +19,19 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 - **House Price Prediction**  
   *Applied Lasso and Ridge Regression on multicollinear data to predict house prices.*  
   *Tech Stack*: Python, sklearn, pandas  
-  [GitHub Repository]([https://github.com/kartikpradyumna92](https://github.com/kartikpradyumna92/Kaggle_House_Price_Predictions))
+  [GitHub Repository](https://github.com/kartikpradyumna92/Kaggle_House_Price_Predictions))
 
 - **Predicting Closed Deals in Automobile Sales**  
   *Built a Random Forest classifier on high-dimensional data for predicting deal closures.*  
   *Metrics*: F1 Score: 0.9050, AUC: 0.9137  
-  [GitHub Repository]([https://github.com/kartikpradyumna92](https://github.com/kartikpradyumna92/Data-Science--Analysis-of-automobiles-deals-captured))
+  [GitHub Repository](https://github.com/kartikpradyumna92/Data-Science--Analysis-of-automobiles-deals-captured))
 
 ---
 
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/karteekpradyumnabulusu)
-- [DataSciencePortfolio](kartikpradyumna92.github.io)
+- [DataSciencePortfolio](https://kartikpradyumna92.github.io/)
 - [GitHub](https://github.com/kartikpradyumna92)
 
 ---
