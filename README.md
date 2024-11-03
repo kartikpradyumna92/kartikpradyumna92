@@ -34,9 +34,8 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 
 - [LinkedIn](https://www.linkedin.com/in/karteekpradyumnabulusu)
 - [DataSciencePortfolio](https://kartikpradyumna92.github.io/)
-- [GitHub](https://github.com/kartikpradyumna92)
+- Email - karteekpbulusu@gmail.com
 
 ---
-
 Feel free to explore my repos and reach out!
 
