@@ -12,8 +12,10 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 ,![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 - **Tools & Platforms**: ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 , ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) (Redshift, S3)
-, ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white), ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-, ![Git](https://img.shields.io/badge/Git-3776AB?style=flat&logo=git&logoColor=white), ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+, ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+, ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+, ![Git](https://img.shields.io/badge/Git-3776AB?style=flat&logo=git&logoColor=white)
+, ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 - **Machine Learning**: Classification, Regression, Time Series (ARIMA, Fbprophet), Ensemble Models
 
 ---
