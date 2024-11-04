@@ -16,7 +16,6 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 , ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 , ![Git](https://img.shields.io/badge/Git-3776AB?style=flat&logo=git&logoColor=white)
 , ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-- **Machine Learning**: Classification, Regression, Time Series (ARIMA, Fbprophet), Ensemble Models
 
 ---
 
