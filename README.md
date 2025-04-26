@@ -21,22 +21,22 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 
 ### 🚀 Key Projects
 
-- **House Price Prediction - Kaggle**  
-  *Applied Lasso and Ridge Regression on multicollinear data to predict house prices.*  
-  *Tech Stack*: Python, sklearn, pandas  
-  [GitHub Repository](https://github.com/kartikpradyumna92/Kaggle_House_Price_Predictions)
-
-- **Paris 2024 Olympics Data Storytelling - Kaggle**  
-  *Data Story telling on Paris 2024 Olympics. Understand the data around Paris 2024 Olympics and visualize interesting findings.*  
-  *Tech Stack*: Python, plotly, pandas  
+- **Paris 2024 Olympics: Statistical Analysis and Visualization - Kaggle**  
+  *Applied descriptive and inferential statistics— T-test for age by gender, Chi-Square test for Independence to check if country and medal features are independent, and developed interactive Python/Plotly visualizations to uncover key insights across athletes, events, sport, and medal outcomes.*  
+  *Tech Stack*: Python, plotly, SciPy  
   [GitHub Repository](https://github.com/kartikpradyumna92/Kaggle_Paris2024_Olympics)
-  
 
+  
 - **Predicting Closed Deals in Automobile Sales**  
   *Built a Random Forest classifier on high-dimensional data for predicting deal closures.*  
   *Metrics*: F1 Score: 0.9050, AUC: 0.9137  
   [GitHub Repository](https://github.com/kartikpradyumna92/Data-Science--Analysis-of-automobiles-deals-captured)
 
+
+- **House Price Prediction - Kaggle**  
+  *Applied Lasso and Ridge Regression on multicollinear data to predict house prices.*  
+  *Tech Stack*: Python, sklearn, pandas  
+  [GitHub Repository](https://github.com/kartikpradyumna92/Kaggle_House_Price_Predictions)
 
 ---
 
