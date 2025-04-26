@@ -2,7 +2,7 @@
 
 ### Data Scientist | Data Science and Analytics enthusiast
 
-Welcome to my GitHub! With a strong foundation in data science, I’m passionate about scalable analytics and Statistical inference, crafting compelling stories through data visualization, data pipelines, and building solutions that leverage classification and predictive modeling. I'm always exploring new technologies and tackling data challenges.
+Welcome to my GitHub! With a strong foundation in data science, I’m passionate about scalable analytics and deriving statistical inferences, crafting compelling stories through data visualization, data pipelines, and building solutions that leverage classification and predictive modeling. I'm always exploring new technologies and tackling data challenges.
 
 ---
 
