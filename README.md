@@ -2,7 +2,7 @@
 
 ### Data Scientist | Data Science and Analytics enthusiast
 
-Welcome to my GitHub! With a strong foundation in data science, I’m passionate about scalable analytics, crafting compelling stories through data visualization, data pipelines, and building solutions that leverage classification and predictive modeling. I'm always exploring new technologies and tackling data challenges.
+Welcome to my GitHub! With a strong foundation in data science, I’m passionate about scalable analytics and Statistical inference, crafting compelling stories through data visualization, data pipelines, and building solutions that leverage classification and predictive modeling. I'm always exploring new technologies and tackling data challenges.
 
 ---
 
@@ -21,7 +21,7 @@ Welcome to my GitHub! With a strong foundation in data science, I’m passionate
 
 ### 🚀 Key Projects
 
-- **Paris 2024 Olympics: Statistical Analysis and Visualization - Kaggle**  
+- **Paris 2024 Olympics: Statistical Inference and Visualization - Kaggle**  
   *Applied descriptive and inferential statistics— T-test for age by gender, Chi-Square test for Independence to check if country and medal features are independent, and developed interactive Python/Plotly visualizations to uncover key insights across athletes, events, sport, and medal outcomes.*  
   *Tech Stack*: Python, plotly, SciPy  
   [GitHub Repository](https://github.com/kartikpradyumna92/Kaggle_Paris2024_Olympics)
